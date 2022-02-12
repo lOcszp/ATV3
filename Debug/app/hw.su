@@ -1,0 +1,4 @@
+hw.c:12:6:hw_switch0_state_get	16	static
+hw.c:23:6:hw_switch1_state_get	16	static
+hw.c:35:6:hw_led_state_set	24	static
+hw.c:42:6:hw_delay_ms	16	static
